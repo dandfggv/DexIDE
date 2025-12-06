@@ -1,0 +1,45 @@
+# 🔐 Security Policy
+
+DexLang & DexIDE aim to be safe, stable, and secure.  
+If you discover a vulnerability, please follow this policy.
+
+---
+
+## 🛠️ Supported Versions
+
+| Version | Supported |
+|--------|-----------|
+| Latest | ✅ Yes |
+| Older  | ❌ No |
+
+---
+
+## 🐞 Reporting a Vulnerability
+
+If you find a security issue:
+
+1. **Do NOT open a public GitHub issue.**
+2. Contact the project owner privately.
+3. Include:
+   - Description of the issue  
+   - Steps to reproduce  
+   - Potential impact  
+   - Suggested fix (optional)
+
+You will receive a response within **48 hours**.
+
+---
+
+## ✅ Responsible Disclosure
+
+Please:
+- Do not exploit vulnerabilities  
+- Do not share them publicly  
+- Give time for a fix before disclosure  
+
+---
+
+## 🛡️ Thank You
+
+Security researchers and contributors help keep DexLang strong.  
+Your efforts make the beast safer for everyone. 🐲🛡️
