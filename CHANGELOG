@@ -1,0 +1,49 @@
+# 📜 Changelog  
+All notable changes to DexLang & DexIDE will be documented here.
+
+This project follows a simple versioning style:  
+`vYEAR.MONTH.DAY`
+
+---
+
+## ✅ v2025.12.05 — Initial Beast Release
+
+### 🚀 DexLang
+- Added Lexer  
+- Added Parser  
+- Added Interpreter  
+- Added AST system  
+- Added variables, arithmetic, loops, if/else  
+- Added print  
+- Added block support `{ ... }`  
+
+### 🖥️ DexIDE
+- Added GUI editor  
+- Added Run button  
+- Added Build system  
+- Added `.dex-output` folder  
+- Added `.dexDump` history system  
+- Added console output  
+- Added project root selection  
+
+---
+
+## ✅ Planned Updates
+
+### 🔤 DexLang
+- String support  
+- Arrays  
+- Functions  
+- Input system  
+- Standard library  
+
+### 🎨 DexIDE
+- Syntax highlighting  
+- Themes  
+- Tabs for multiple files  
+- Plugin system  
+- Debugger  
+
+---
+
+## 🐉 Stay tuned — the beast evolves.
